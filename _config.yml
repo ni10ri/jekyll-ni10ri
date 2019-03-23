@@ -1,11 +1,11 @@
-title: Kieta
-subtitle: All hope is gone
+title: kotonoha.blue
+subtitle: 
 repository: atpons/jekyll-kieta-theme
-author: YOUR_NAME_OR_ID
+author: ni10ri
 twitter:
-  username: YOUR_TWITTER_ID
-disqus: YOUR_DISQUS_SHORTNAME
-color: limegreen # web color
+  username: ni10ri
+# disqus: YOUR_DISQUS_SHORTNAME
+color: 007bbb # web color
 branch: master # where your github pages hosted branch
 
 permalink: /items/:title
