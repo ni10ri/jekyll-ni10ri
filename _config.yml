@@ -4,6 +4,8 @@ repository: atpons/jekyll-kieta-theme
 author: ni10ri
 twitter:
   username: ni10ri
+github:
+  owner_name: ni10ri
 # disqus: YOUR_DISQUS_SHORTNAME
 color: deepskyblue # web color
 branch: master # where your github pages hosted branch
