@@ -24,7 +24,7 @@ Twitter: [@ni10ri]
 Qiitaのサイトより、[atpons氏の記事]をもとに（ページ最後の一発デプロイボタン押しただけですが…）  
 Netlifyを使ってサイトを立ち上げています。
 
-
+<!-- リンク -->
 
 [メインブログ]: https://akatsuki.win/
 [@ni10ri]: https://twitter.com/ni10ri
