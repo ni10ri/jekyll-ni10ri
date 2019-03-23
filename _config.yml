@@ -5,7 +5,7 @@ author: ni10ri
 twitter:
   username: ni10ri
 # disqus: YOUR_DISQUS_SHORTNAME
-color: #007bbb # web color
+color: deepskyblue # web color
 branch: master # where your github pages hosted branch
 
 permalink: /items/:title
