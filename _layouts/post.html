@@ -12,7 +12,7 @@ layout: default
         {% capture year_old %}{{ page.date | date: "%s" | minus: current_time | divided_by: one_year | plus: 1 }}{% endcapture %}
         {% if year_old contains '-' %}
         <div class="alert alert-warning" role="alert">
-            <i class="fa fa-clock-o" aria-hidden="true"></i> This article is more than 1 year old. Please read this page keeping its age in your mind.
+            <i class="fa fa-clock-o" aria-hidden="true"></i> この記事は最終更新日から1年以上が経過しています。
         </div>
         {% endif %}
         <article>
