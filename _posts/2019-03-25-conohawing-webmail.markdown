@@ -2,7 +2,7 @@
 layout: post
 title:  "ConoHa WINGでWebメールクライアントを立ち上げる話"
 date:   2019-03-25 08:40:00 +9000
-tags:   ConoHa WING,Webメール
+tags:   ConoHa Webメール
 permalink: /2019-03-25-conohawing-webmail
 ---
 
